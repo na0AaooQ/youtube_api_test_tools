@@ -2,6 +2,7 @@
 YouTube Data API v3のコメント取得API等の実行テスト用シェルスクリプト
 
 `youtube_api_test_tools` は、「こめんとみまもり｜YouTube安心コメントフィルター」の開発・検証用に作成した、YouTube Data API v3 の動作確認スクリプト集です。
+
 https://github.com/na0AaooQ/youtube_api_test_tools
 
 YouTubeコメントの取得、コメントスレッド一覧取得、コメントのモデレーション状態変更などを、ローカル環境から手動で確認するために使用します。
@@ -352,3 +353,7 @@ youtube_comment_threads_list.txt
 このリポジトリは、本番運用向けのアプリケーションではなく、「こめんとみまもり｜YouTube安心コメントフィルター」の開発・検証を補助するためのローカルAPIテストツールです。
 
 本番機能へ組み込む前に、YouTube Data API v3 の挙動や制約を確認するために使用します。
+
+なお、「こめんとみまもり｜YouTube安心コメントフィルター」のリポジトリは、以下のプライベートリポジトリになります。  
+https://github.com/na0AaooQ/safe-comment-filter-app
+
