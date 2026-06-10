@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+##### youtube_api_test_tools gitignore settings
+# Local environment files
+.env
+.env.*
+*.local
+.zshrc
+
+# API response outputs
+youtube_comment_threads_list.txt
+*_response.json
+*_result.json
+*.log
+
+# macOS
+.DS_Store
