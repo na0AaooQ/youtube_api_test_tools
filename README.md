@@ -1,0 +1,2 @@
+# youtube_api_test_tools
+YouTube Data API v3のコメント取得API等の実行テスト用シェルスクリプト
