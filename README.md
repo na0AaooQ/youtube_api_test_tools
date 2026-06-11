@@ -1,5 +1,5 @@
 # youtube_api_test_tools
-YouTube Data API v3のコメント取得API等の実行テスト用シェルスクリプト
+[YouTube Data API v3](https://developers.google.com/youtube/v3/docs/comments?hl=ja)のコメント取得API等の実行テスト用シェルスクリプト
 
 `youtube_api_test_tools` は、「こめんとみまもり｜YouTube安心コメントフィルター」の開発・検証用に作成した、YouTube Data API v3 の動作確認スクリプト集です。
 
