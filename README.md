@@ -1,7 +1,7 @@
 # youtube_api_test_tools
-[YouTube Data API v3](https://developers.google.com/youtube/v3/docs/comments?hl=ja)のコメント取得API等の実行テスト用シェルスクリプト
+[YouTube Data API v3](https://developers.google.com/youtube/v3/docs/comments?hl=ja) のコメント取得API等の実行テスト用シェルスクリプト
 
-`youtube_api_test_tools` は、「こめんとみまもり｜YouTube安心コメントフィルター」の開発・検証用に作成した、YouTube Data API v3 の動作確認スクリプト集です。
+`youtube_api_test_tools` は、[こめんとみまもり｜YouTube安心コメントフィルター](https://portfolio.na0aaooq.com/assets/pdf/youtube-comment-mimamori-introduction.pdf) の開発・検証用に作成した、YouTube Data API v3 の動作確認スクリプト集です。
 
 https://github.com/na0AaooQ/youtube_api_test_tools
 
@@ -357,3 +357,26 @@ youtube_comment_threads_list.txt
 なお、「こめんとみまもり｜YouTube安心コメントフィルター」のリポジトリは、以下のプライベートリポジトリになります。  
 https://github.com/na0AaooQ/safe-comment-filter-app
 
+## License
+
+MIT License
+
+Copyright (c) 2026 Aoki Naohisa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
